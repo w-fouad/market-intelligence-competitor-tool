@@ -1,0 +1,5 @@
+pandas
+plotly
+google-play-scraper
+streamlit
+google-genai
